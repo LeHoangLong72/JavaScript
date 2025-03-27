@@ -1,0 +1,7 @@
+What is JavaScript?
+
+JavaScript is a high-level, object-oriented, multi-paradigm programming language
+
+High-level language: we don't have to care about complex stuff such as memory management,..
+
+Multi-paradigm language: flexible and versatile that we can use all kinds of different programming styles such as imperative and declarative programming
