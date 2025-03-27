@@ -1,0 +1,4 @@
+Hãy viết chương trình, hiện thông báo lên trên màn hình, cho phép người dùng nhập tên > Xuất tên dùng console.log
+
+Tên của bạn là: Lê Hoàng Long
+Chào mừng Lê Hoàng Long đến với trang Tuhoc.cc!
