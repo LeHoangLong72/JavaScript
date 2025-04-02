@@ -1,30 +1,17 @@
-// 7. các cách xuất dữ liệu với biến trong js
-let soA = 25;
-let soB = 5;
-// Cách 1:
-console.log("Căn bậc hai của " + soA + " là: " + soB);
+// Các phép toán cơ bản
+let a = 5;
+let b = 2;
 
-// Cách 2:
-console.log("Căn bậc hai của",soA, "là:", soB);
-// Cách 3:
-console.log(`Căn bậc hai của ${soA} là: ${soB}`);
-// Cách 4: 
-console.log(`Căn bậc hai của %s là: %s`, soA, soB);
-
-// luyện tập
-let a = 4, b = 3, kq = a * b;
-// xuất kết quả ra màn hình console theo 4 cách đã học
-// Cách 1:
-console.log("Kết quả: " + a + " nhân với " + b + " bằng " + kq);
-// Cách 2:
-console.log("Kết quả:", a , "nhân với", b, "bằng", kq);
-// Cách 3:
-console.log(`Kết quả: ${a} nhân với ${b} bằng ${kq}`);
-// Cách 4:
-console.log(`Kết quả: %s nhân với %s bằng %s`, a, b, kq);
+let tong = a + b;
+let hieu = a - b;
+let tich = a * b;
+let thuong = a / b;
+let soDu = a % b;
 
 
-
-
-
-
+// xuất kết quả
+console.log("Tổng 2 số: " + tong);
+console.log("Hiệu 2 số: " + hieu);
+console.log("Tích 2 số: " + tich);
+console.log("Thương 2 số: " + thuong);
+console.log("Số dư của phép chia a cho b là: " + soDu);
