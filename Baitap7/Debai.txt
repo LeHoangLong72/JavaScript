@@ -1,0 +1,11 @@
+Bài tập: Thực hiện các phép toán gán và in ra kết quả
+let a = 7;
+
+a. Thực hiện phép toán gán mở rộng để tăng giá trị của a lên 3 và in ra kết quả. Gợi ý: sử dụng toán tử +=
+a += 3;
+console.log("a=",a);
+
+b. b = 15, b-=6
+c. c = 5, c*=4
+d. d = 12, d/=2
+e. e = 5, f = 2 rút gọn biểu thức e = e - (f + 1)
