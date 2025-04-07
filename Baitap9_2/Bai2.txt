@@ -1,0 +1,7 @@
+Tính chu vi, diện tích hình chữ nhật
+1. Viết chương trình nhập vào 2 số thực duownga, b từ bàn phím a, b là chiều dài và chiều rộng của hình chữ nhật.
+2. In ra màn hình chu vi và diện tích của hình chữ nhật đó.
+Gợi ý:
+
+diện tích s = a * b;
+chu vi p = (a + b) * 2;
