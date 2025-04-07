@@ -1,0 +1,2 @@
+Viết chương trình nhập vào điểm ba môn toán, văn, anh của 1 học sinh, tính điểm trung bình và xuất kết quả làm tròn 2 chữ số sau dấu phẩy
+
