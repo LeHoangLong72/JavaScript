@@ -1,0 +1,6 @@
+Tính chu vi, diện tích hình tròn. Viết chương trình nhập vào từ bàn phím bán kính r của đường tròn, in ra kết quả
+a. Chu vi = ?
+b. Diện tích = ?
+Gợi ý:
+chu vi = 2*PI*r
+dientich = PI*r*r
